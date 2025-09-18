@@ -7,8 +7,8 @@
 .DS_Store
 
 # Jupyter artifacts
-.ipynb_checkpoints/
-.jupyter/
+.ipynb_checkpoints
+.jupyter/desktop-workspaces
 
 # Byte-compiled 
 __pycache__/
