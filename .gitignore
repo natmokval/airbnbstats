@@ -1,0 +1,23 @@
+# pyenv
+.python-version
+
+# OS generated files
+.directory
+.gdb_history
+.DS_Store
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+.jupyter/
+
+# Byte-compiled 
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+.vscode/
+env.bak/
+venv.bak/
